@@ -12,6 +12,8 @@ It uses smart contracts to securely and transparently record all academic activi
 
 ## Contract Address
 0x6A4f4F6Fa49270e8Fc87D1E1401b40f83d8BF325
+![image](https://github.com/user-attachments/assets/823cc77d-909a-44fd-b212-c9882fb2ee95)
+
 
 ## Project Vision
 To create a decentralized and secure platform that connects students and educators, enabling personalized learning and transparent academic progress.
